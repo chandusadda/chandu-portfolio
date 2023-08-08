@@ -181,7 +181,7 @@ function Education() {
               Do I depend solely on books? 📚
             </Typography>
             <Typography variant="body1" mt={1}>
-              My learning is not limited to the academic institutions I've been
+              My learning is not limited to the academic institutions I&apos;ve been
               to. I believe in practical learning and take up tasks in new
               domains. I learn how to complete a task and hence learn my way up
               to mastering that domain.

@@ -49,7 +49,7 @@ function HeadSection() {
               Hey!
             </Typography>
             <Typography variant="h3" className={classes.title}>
-              I'm <span className={classes.textColored}>Chandu.</span>
+              I&apos;m <span className={classes.textColored}>Chandu.</span>
             </Typography>
             <Typography variant="h6" className={classes.subtitle}>
               <Typewriter
