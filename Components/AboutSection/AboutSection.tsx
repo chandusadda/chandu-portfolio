@@ -42,7 +42,7 @@ function AboutSection() {
               into various technical domains until I discovered my true passion
               in <b>Web Development</b>. Driven by an insatiable curiosity, I have
               recently embarked on learning <b>Golang, Docker, Kubernetes</b> &
-              contributing as a f<b>full-stack developer</b> over the past few weeks. My
+              contributing as a <b>full-stack developer</b> over the past few weeks. My
               present role is a source of great enthusiasm for me, as it centers
               primarily on technical expertise while occasionally requiring me
               to roll up my sleeves and demonstrate my technological prowess. I

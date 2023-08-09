@@ -110,14 +110,14 @@ export function SidebarDrawer() {
       >
         Work Experience
       </SidebarElement>
-      <SidebarElement
+      {/* <SidebarElement
         pathname="/accomplishments"
         pathCheck={
           pathname === "/accomplishments" || pathname === "/accomplishments/"
         }
       >
         Accomplishments
-      </SidebarElement>
+      </SidebarElement> */}
       <SidebarElement
         pathname="/contact"
         pathCheck={pathname === "/contact" || pathname === "/contact/"}

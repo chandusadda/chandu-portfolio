@@ -40,7 +40,7 @@ const ContactLinks = () => {
       <Button
         variant="contained"
         target="_blank"
-        href={`/chandu_sadda_cv.pdf`}
+        href={`https://drive.google.com/file/d/1AT4tLPCfpdkYPwJaqwlNRCc0jX2BAYxz/view?usp=sharing`}
         className={classes.themeBtn}
       >
         Download Resume

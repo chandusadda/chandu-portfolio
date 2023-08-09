@@ -95,7 +95,7 @@ export default {
       role: "Senior Software Engineer",
       description: [
         "• Developed a scalable <b>SPA Partner Portal</b> using <b>ReactStrap</b> (Material UI kind UI library) components, <b>NextJS & TypeScript</b> to build all UI pages in agile environment.",
-        "• Handled <b>API failure</b> with three retries machanisam, then will navigate to <b>network error</b> route &amp; on click of back button will navigate back to same page using <b>browser navigation</b> history API.",
+        "• Handled <b>API failure</b> with three retries mechanisam, then will navigate to <b>network error</b> route &amp; on click of back button will navigate back to same page using <b>browser navigation</b> history API.",
         "• Created tables to show partners, users, companies &amp; handled <b>lazy loading</b> of the table for next set of lists to show <b>thousands of rows</b> once on click of next button.",
         "• <b>Integrated</b> different <b>ticketing engines</b> like ConnectWise, ServiceNow &amp; Autotask, based on this configuration added here will be validated it’s a valid config with ticketing platform &amp; will be raised <b>new tickets</b> when user tries to access <b>blocked/suspicious URLs.</b>",
         "• Handled <b>multiple sessions</b> in same browser window by allowing MSP can view his sub-MSP’s portals in <b>different tabs</b> &amp; by bypassing <b>login process</b> with just one click.",

@@ -73,7 +73,7 @@ function HeadSection() {
                 Get In Touch
               </Button>
             </Link>
-            <Button variant="outlined" target="_blank" href={`/chandu_sadda_cv.pdf`} className={classes.altBtn}>Download Resume</Button>
+            <Button variant="outlined" target="_blank" href={`https://drive.google.com/file/d/1AT4tLPCfpdkYPwJaqwlNRCc0jX2BAYxz/view?usp=sharing`} className={classes.altBtn}>Download Resume</Button>
           </Grid>
           {!small && (
             <Grid item xs={12} md={6} style={{ textAlign: "center" }}>
